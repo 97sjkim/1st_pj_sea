@@ -1,0 +1,141 @@
+a{
+  text-decoration: none;
+  color:black;
+}
+h1{
+  display:inline;
+  text-align: center;
+  font: 30px;
+}
+.title{
+  margin-top: 50px;
+  text-align: center;
+}
+
+#sea{
+  font-size: 50px;
+  color:#2E9AFE;
+}
+#start{
+  font-size:30px;
+  text-align: center;
+}
+
+#madeby{
+  text-align:right;
+  margin-right: 100px;
+}
+#question{
+  margin-top:70px;
+  font-size:22px;
+  margin-left: 50px;
+  margin-bottom: 40px;
+}
+#answer{
+  text-align: center;
+}
+#yes{
+  display:grid;
+  width:150px;
+  border: 2px black solid;
+  padding: 10px;
+  margin:auto;
+  font-size:20px;
+}
+#yes:hover{
+  display:grid;
+  width:150px;
+  border: 2px #2E9AFE solid;
+  padding: 10px;
+  margin:auto;
+  font-size:20px;
+  color:#2E9AFE;
+}
+#no{
+  display:grid;
+  width:150px;
+  border: 2px black solid;
+  padding: 10px;
+  margin:auto;
+  font-size:20px;
+}
+#no:hover{
+  display:grid;
+  width:150px;
+  border: 2px #2E9AFE solid;
+  padding: 10px;
+  margin:auto;
+  font-size:20px;
+  color:#2E9AFE;
+}
+#result_A{
+  font-size: 40px;
+  text-align: center;
+  padding:100px;
+  background-image:url(https://cdn.pixabay.com/photo/2016/04/18/22/05/sea-1337565__340.jpg);
+  background-repeat: no-repeat;
+  background-size: 50%;
+  background-position: center;
+}
+#result_B{
+  font-size: 40px;
+  text-align: center;
+  padding:100px;
+  background-image:url(https://cdn.pixabay.com/photo/2016/11/23/17/17/beach-1853902_960_720.jpg);
+  background-repeat: no-repeat;
+  background-size: 50%;
+  background-position: center;
+}
+#result_C{
+  font-size: 40px;
+  text-align: center;
+  padding:100px;
+  background-image:url(https://cdn.pixabay.com/photo/2010/12/13/10/08/background-2361_960_720.jpg);
+  background-repeat: no-repeat;
+  background-size: 50%;
+  background-position: center;
+}
+#result_D{
+  font-size: 40px;
+  text-align: center;
+  padding:100px;
+  background-image:url(https://cdn.pixabay.com/photo/2016/03/09/15/18/woman-1246581_960_720.jpg);
+  background-repeat: no-repeat;
+  background-size: 50%;
+  background-position: center;
+
+}
+#result_E{
+  font-size: 40px;
+  text-align: center;
+  padding:100px;
+  background-image:url(https://cdn.pixabay.com/photo/2016/11/23/17/56/affection-1854081_960_720.jpg);
+  background-repeat: no-repeat;
+  background-size: 50%;
+  background-position: center;
+}
+
+#goto{
+  margin-top: 50px;
+  text-align: center;
+}
+#gotomap{
+  display:inline;
+  width:300px;
+  border: 2px black solid;
+  padding: 10px;
+  margin:auto;
+  font-size:15px;
+}
+#gotomap:hover{
+  display:inline;
+  width:300px;
+  border: 2px #2E9AFE solid;
+  padding: 10px;
+  margin:auto;
+  font-size:15px;
+  color:#2E9AFE;
+}
+#result{
+  text-align: center;
+}
