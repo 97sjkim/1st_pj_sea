@@ -139,3 +139,88 @@ h1{
 #result{
   text-align: center;
 }
+#Atype{
+  display:grid;
+  width:150px;
+  border: 2px black solid;
+  padding: 10px;
+  margin:auto;
+  font-size:20px;
+}
+#Atype:hover{
+  display:grid;
+  width:150px;
+  border: 2px #2E9AFE solid;
+  padding: 10px;
+  margin:auto;
+  font-size:20px;
+  color:#2E9AFE;
+}
+#Btype{
+  display:grid;
+  width:150px;
+  border: 2px black solid;
+  padding: 10px;
+  margin:auto;
+  font-size:20px;
+}
+#Btype:hover{
+  display:grid;
+  width:150px;
+  border: 2px #2E9AFE solid;
+  padding: 10px;
+  margin:auto;
+  font-size:20px;
+  color:#2E9AFE;
+}
+#Ctype{
+  display:grid;
+  width:150px;
+  border: 2px black solid;
+  padding: 10px;
+  margin:auto;
+  font-size:20px;
+}
+#Ctype:hover{
+  display:grid;
+  width:150px;
+  border: 2px #2E9AFE solid;
+  padding: 10px;
+  margin:auto;
+  font-size:20px;
+  color:#2E9AFE;
+}
+#Dtype{
+  display:grid;
+  width:150px;
+  border: 2px black solid;
+  padding: 10px;
+  margin:auto;
+  font-size:20px;
+}
+#Dtype:hover{
+  display:grid;
+  width:150px;
+  border: 2px #2E9AFE solid;
+  padding: 10px;
+  margin:auto;
+  font-size:20px;
+  color:#2E9AFE;
+}
+#Etype{
+  display:grid;
+  width:150px;
+  border: 2px black solid;
+  padding: 10px;
+  margin:auto;
+  font-size:20px;
+}
+#Etype:hover{
+  display:grid;
+  width:150px;
+  border: 2px #2E9AFE solid;
+  padding: 10px;
+  margin:auto;
+  font-size:20px;
+  color:#2E9AFE;
+}
